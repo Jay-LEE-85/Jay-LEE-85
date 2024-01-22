@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hellow, World! :+1:
+---
+This is my playground for risk analysis!
+Let's have some fun and not take it too seriously!
 
-<!--
-**Jay-LEE-85/Jay-LEE-85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### My tech stack
+---
+![Static Badge](https://img.shields.io/badge/-main-blue?style=flat&logo=r&logoColor=white&label=R)
+![Static Badge](https://img.shields.io/badge/-main-blue?style=flat&logo=python&logoColor=white&label=Python)
+![Static Badge](https://img.shields.io/badge/-etc-green?style=flat&logo=css3&logoColor=white&label=CSS)
+![Static Badge](https://img.shields.io/badge/-etc-green?style=flat&logo=javascript&logoColor=white&label=javascript)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
