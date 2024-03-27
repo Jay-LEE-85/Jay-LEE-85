@@ -1,8 +1,8 @@
 ### Hellow, World! :+1:
 ---
-This is my playground for risk analysis!
+This is my playground for R and Python!
 
-Let's have some fun and not take it too seriously!
+Let's play with me!
 
 
 ### My tech stack
