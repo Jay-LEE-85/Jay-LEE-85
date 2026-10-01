@@ -2,7 +2,6 @@
 ---
 This is my playground for R and Python!
 
-Let's play with me!
 
 
 ### My tech stack
