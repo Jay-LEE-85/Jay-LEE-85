@@ -1,4 +1,4 @@
-### Hellow, World! :+1:
+### Hello, World! :+1:
 ---
 This is my playground for R and Python!
 
